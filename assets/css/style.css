@@ -117,8 +117,7 @@ span,
 input,
 select,
 button,
-textarea,
-ion-icon { display: block; }
+textarea { display: block; }
 
 img { height: auto; }
 
